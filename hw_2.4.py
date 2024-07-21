@@ -21,3 +21,5 @@ for row in dod:
 conn.commit()
 conn.close()
 
+print('Hello, world')
+
